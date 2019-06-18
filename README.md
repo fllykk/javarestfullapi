@@ -183,6 +183,13 @@
      </persistence>
      ``` 
      
+     - Sources and credits
+         - [Hibernate Getting Started Guide](https://docs.jboss.org/hibernate/orm/5.4/quickstart/html_single/#_the_hibernate_modules_artifacts)        
+         - [Java Persistence API](https://docs.jboss.org/hibernate/orm/5.4/quickstart/html_single/#hibernate-gsg-tutorial-jpa-entity)
+         - [Bruno Horta](https://github.com/brunohorta82/CursoJavaEE_Modulo01)
+         - <http://www.mastertheboss.com/jboss-server>
+         - <https://github.com/pgjdbc/pgjdbc>
+     
      
      
      
